@@ -1,0 +1,13 @@
+id,alert_type,src_ip,username,message
+1,failed_login_spike,198.51.100.23,,3 failed login attempts
+2,suspicious_ua,198.51.100.23,bob,curl/7.68.0
+3,suspicious_ua,198.51.100.23,bob,curl/7.68.0
+4,suspicious_ua,198.51.100.23,bob,curl/7.68.0
+5,failed_login_spike,198.51.100.23,,3 failed login attempts
+6,suspicious_ua,198.51.100.23,bob,curl/7.68.0
+7,suspicious_ua,198.51.100.23,bob,curl/7.68.0
+8,suspicious_ua,198.51.100.23,bob,curl/7.68.0
+9,failed_login_spike,198.51.100.23,,3 failed login attempts
+10,suspicious_ua,198.51.100.23,bob,curl/7.68.0
+11,suspicious_ua,198.51.100.23,bob,curl/7.68.0
+12,suspicious_ua,198.51.100.23,bob,curl/7.68.0
