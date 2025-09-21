@@ -1,0 +1,8 @@
+pandas
+pytest
+python-dateutil
+geoip2
+pyyaml
+sqlalchemy
+requests
+python-dotenv
